@@ -1,0 +1,4 @@
+`define SIM       1'b1
+`define RST_IMG   2'd0
+`define TIME      2'd1
+`define WAVEFORM  2'd2

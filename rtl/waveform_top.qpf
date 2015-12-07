@@ -1,0 +1,6 @@
+DATE = "19:30:00 August 07, 2015"
+QUARTUS_VERSION = "10.1"
+
+# Revisions
+
+PROJECT_REVISION = "waveform_top"
